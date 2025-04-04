@@ -7,3 +7,4 @@ vim .bashrc
 export PATH=$PATH:/usr/local/bin/
 source .bashrc 
 hello i am suri
+ok please folloe
